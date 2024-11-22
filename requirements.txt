@@ -1,6 +1,7 @@
 telethon
 telethon-session-sqlalchemy
 setuptools
+moviepy
 wheel
 aiofiles
 aiohttp
